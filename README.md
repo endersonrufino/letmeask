@@ -1,3 +1,5 @@
+<img alt="banner" src="https://github.com/endersonrufino/letmeask/blob/main/src/assets/readme/banner.png" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
